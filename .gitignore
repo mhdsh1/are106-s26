@@ -1,0 +1,30 @@
+# Ignore everything
+*
+
+# Allow directories so Git can traverse
+!*/
+
+# Allow specific file types
+!*.py
+!*.R
+!*.do
+!*.sh
+!*.md
+!*.tex
+!*.bib
+!*.txt
+!*.yml
+!*.yaml
+!*.toml
+!*.ipynb
+!*.svg
+!*.png
+!*.json
+!*.csv
+!*.pdf
+
+# Keep .gitignore itself
+!.gitignore
+
+# --- IMPORTANT: force-ignore this folder ---
+gitignore/
