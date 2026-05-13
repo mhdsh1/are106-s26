@@ -2,13 +2,16 @@ README.md
 
 # Plan 
 
-+ Disc 1, Least squares.
-+ Disc 2, Hypothesis testing.
-+ Disc 3, Hypothesis testing.
-+ Disc 4, Elasticity.
++ 01 - Least squares.
+
++ 02 - Hypothesis testing.
+
++ 03 - Hypothesis testing.
+
++ 04 - Elasticity.
 
 # Links 
 
-Resources for students: https://tutoring.ucdavis.edu/pathways/scls/workshops
++ Resources: https://tutoring.ucdavis.edu/pathways/scls/workshops
 
-https://mentalhealth.ucdavis.edu/resources/self-care
++ Resources: https://mentalhealth.ucdavis.edu/resources/self-care

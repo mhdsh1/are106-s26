@@ -27,4 +27,4 @@
 !.gitignore
 
 # --- IMPORTANT: force-ignore this folder ---
-gitignore/
+ignore/
